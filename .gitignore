@@ -1,3 +1,5 @@
-venv/
-
+model.joblib
+scaler.joblib
+training_dataset.csv
 __pycache__/
+*.pyc
